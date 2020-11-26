@@ -1,0 +1,110 @@
+body {
+  margin: 0;
+  text-align: center;
+
+}
+
+.Book {
+  width: 30%;
+  float: left;
+  margin-right:  30px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.btn {
+  font-family: none;
+  color: #11999E;
+}
+
+.Front-end {
+  width: 30%;
+  float: right;
+  margin-left: 30px;
+}
+.footer-link {
+  color:#11999E;
+}
+
+.foot {
+  font-family: 'Fondamento', cursive;
+  font-size: 1.5rem;
+
+}
+
+.Lingual {
+  margin-right: 30px;
+  width: 30%;
+  float: left;
+}
+
+h1 {
+  margin-top: 0;
+  padding-top: 100px;
+  font-size: 5.625rem;
+  font-family: 'Dancing Script', cursive;
+  color: #66BFBF;
+}
+
+h2 {
+  font-family: 'Fondamento', cursive;
+  font-size: 2.50rem;
+  color: #11999E;
+}
+
+h3 {
+  font-family: 'Fondamento', cursive;
+  font-size: 1.25rem;
+  color: #11999E;
+}
+
+.mountain {
+  position: absolute;
+  left:420px;
+  bottom: 0;
+}
+
+.para {
+  font-family: 'Caveat', cursive;
+  font-size: 20px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 10px auto 10px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.styles {
+  font-family: 'Indie Flower', cursive;
+  position: relative;
+  bottom: 40px;
+  color: #66BFBF;
+  font-weight: normal;
+  line-height: .5;
+}
+
+.top-cloud {
+  position: absolute;
+  top: 50px;
+  right: 300px;
+}
+
+.topcontainer {
+  background-color: #E4F9F5;
+  height: 665px;
+  margin-bottom: 20px;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middlecontainer {
+}
+
+.bottomcontainer {
+}
